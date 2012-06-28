@@ -8,3 +8,5 @@ versão 1.1
 **************
 release 2.0
 release 2.1
+**************
+release 3.0
