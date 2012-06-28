@@ -10,3 +10,5 @@ versão 1.3
 **************
 release 2.0
 release 2.1
+**************
+release 3.0
